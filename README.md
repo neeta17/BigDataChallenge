@@ -2,11 +2,11 @@
 
 ## Soft sensing problem: 
 
-*Wafer manufacturing is highly complex and takes a long time 
+* Wafer manufacturing is highly complex and takes a long time 
 
-*To improve predictability and product yield, we have added a lot of sensors and measurements in the manufacturing line 
+* To improve predictability and product yield, we have added a lot of sensors and measurements in the manufacturing line 
 
-*The sensors and measurements are noisy, expensive and take a long time to manage 
+* The sensors and measurements are noisy, expensive and take a long time to manage 
 
 We want to save the time for measurement and get better insights into the predictive value of these sensors for product quality by using deep learning models to predict the measurement results based on the sensing data 
 
@@ -14,21 +14,21 @@ We want to save the time for measurement and get better insights into the predic
 
 ## Organizers:  
 
-* Sthitie Bom, Seagate Technology, sthitie.e.bom@seagate.com  
+Sthitie Bom, Seagate Technology, sthitie.e.bom@seagate.com  
 
-Sthitie Bom heads the global analytics, reporting and controls organizations for the 	Seagate Wafer factories. She is the driving force behind the data and controls system 	strategy in Wafer.  
+* Sthitie Bom heads the global analytics, reporting and controls organizations for the 	Seagate Wafer factories. She is the driving force behind the data and controls system 	strategy in Wafer.  
 
-* Chao Zhang, Seagate Technology, chao.1.zhang@seagate.com  
+Chao Zhang, Seagate Technology, chao.1.zhang@seagate.com  
 
-Chao Zhang is a machine learning engineer. He is working on wafer diagnostics in 		Sthitie’s team with various deep learning models. He is currently pursuing PhD in 		Molecular Engineering at the University of Chicago. 
+* Chao Zhang is a machine learning engineer. He is working on wafer diagnostics in 		Sthitie’s team with various deep learning models. He is currently pursuing PhD in 		Molecular Engineering at the University of Chicago. 
 
-* Jaswanth Yella, Seagate Technology, jaswanth.k.yella@seagate.com  
+Jaswanth Yella, Seagate Technology, jaswanth.k.yella@seagate.com  
 
-Jaswanth Yella is a machine learning engineer at Seagate. He is working on wafer diagnostics in Sthitie’s team focusing on deep neural networks research. He is currently pursuing PhD in Computer Science at the University of Cincinnati. 
+* Jaswanth Yella is a machine learning engineer at Seagate. He is working on wafer diagnostics in Sthitie’s team focusing on deep neural networks research. He is currently pursuing PhD in Computer Science at the University of Cincinnati. 
 
-* Yu Huang, Seagate Technology, yu.1.huang@seagate.com  
+Yu Huang, Seagate Technology, yu.1.huang@seagate.com  
 
-Yu Huang is a machine learning engineer at Seagate. He is working on Wafer diagnostics in Sthitie’s team developing machine-learning-based diagnostic models. He is currently pursuing a Ph.D. Degree in Electrical Engineering at Florida Atlantic University. 
+* Yu Huang is a machine learning engineer at Seagate. He is working on Wafer diagnostics in Sthitie’s team developing machine-learning-based diagnostic models. He is currently pursuing a Ph.D. Degree in Electrical Engineering at Florida Atlantic University. 
 
 The proposed Data Challenge belongs to the business problem/research problem sector. 
 
