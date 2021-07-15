@@ -50,6 +50,7 @@ Top 3 prizes to be announced before the 2021 IEEE International Conference on Bi
 ## Challenge Specific Details 
  
 * Important dates
+
 Registration: Jul. 12 - Aug. 31, 2021
 
 Submission: Jul. 12 - Nov. 4, 2021
