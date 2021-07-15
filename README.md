@@ -58,6 +58,7 @@ Submission: Jul. 12 - Nov. 4, 2021
 Judgement: Nov. 5 - Nov. 12, 2021
 
 * Submission
+
 Create a folder under submission/ with your email address, and put your code and prediction results there.
 
 * Task and the evaluation metrics 
