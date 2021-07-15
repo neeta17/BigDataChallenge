@@ -39,9 +39,9 @@ The data released contain the sensor data coming out of vaccuum tools.
 
  
 
-## Cash prizes for the winners: 
+## prizes for the winners: 
 
-3 Cash prizes to be announced by the end of July. 
+Top 3 prizes to be announced before the 2021 IEEE International Conference on Big Data. 
 
  
 
@@ -49,12 +49,19 @@ The data released contain the sensor data coming out of vaccuum tools.
 
 ## Challenge Specific Details 
  
+* Important dates
+** Registration: Jul. 12 - Aug. 31, 2021
+** Submission: Jul. 12 - Nov. 4, 2021
+** Judgement: Nov. 5 - Nov. 12, 2021
+
+* Submission
+Create a folder under submission/ with your email address, and put your code and prediction results there.
 
 * Task and the evaluation metrics 
 
 The task is to use the provided data sets to develop a classification model that works the best. The evaluation metric will be the ROC-AUC of your prediction on the testing set (validation set will be available to you, while testing set not) 
 
-The dataset contains train/val/test splits, each has a 3-dimensional input with axis (sample, time-step, feature) and a 2-dimensional label with axis (sample, measurement). The testing labels will be hidden.  
+The dataset contains train/val/test splits, each has a 3-dimensional input with axis (sample, time-step, feature) and a 2-dimensional label with axis (sample, measurement). The testing labels will be hidden. Check the data/ folder for more details
 
 Note that the train/val/test data are from different time periods of the manufacturing factory, and it’s not guaranteed that the distributions are similar among them. 
 
