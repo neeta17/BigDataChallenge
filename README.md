@@ -41,8 +41,11 @@ The data released contain the sensor data coming out of vaccuum tools.
 
 ## prizes for the winners: 
 
-Top 3 prizes to be announced before the 2021 IEEE International Conference on Big Data. 
+First Place : $2000.00 USD
 
+Second Place: $1,000.00 USD
+
+Third Place: $500.00 USD
  
 
  
