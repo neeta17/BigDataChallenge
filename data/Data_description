@@ -7,9 +7,8 @@ Input structure: the inputs are three dimensional data with structure [sample, t
 Each sample is mapped to a row in the output labels
 There are two kinds of features, float and integer, and the last feature is padding indicator (if the value is 1, this time-step is a padding)
 Float features are scaled numerical features (column 727-815), and integer features are one-hot encoded categorical features (column 0-726).
-Note that there were 6 categorical variables. They are one-hot encoded individually and then concatenated and shuffled, so there should be 6 value==1 in X_train within these 727 columns,
+Note that there were 6 categorical variables. They are one-hot encoded individually, so there should be 6 value==1 in X_train within these 727 columns,
 unless it's a padding step. As for val and test data, there may be fewer value==1 because the data structure is forced to match X_train. 
-The one-hot encoded columns are shuffled so it would not be possible to recover the exact categorical variables.
 The last feature (column 816) is a padding indicator (1 means this time-step is padding)
 The time-series are very short, you can manipulate it as you wish for the final prediction
 
