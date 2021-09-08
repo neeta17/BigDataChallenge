@@ -54,7 +54,7 @@ Third Place: $500.00 USD
  
 * Important dates
 
-Registration: Jul. 12 - Aug. 31, 2021
+Registration: Jul. 12 - Oct. 31, 2021
 
 Submission: Jul. 12 - Nov. 4, 2021
 
@@ -75,6 +75,10 @@ Note that the train/val/test data are from different time periods of the manufac
  
 
 Participants will need to submit their source code with the prediction values for the testing data, and in backend a score will be calculated based on it, and prizes will be awarded based on the scores. 
+
+* reference
+
+https://arxiv.org/abs/2109.03181
 
  
  
