@@ -3,6 +3,8 @@
 
 ## IEEE Big Data Challenge: Soft Sensing at Scale - Seagate
 
+This is a challenge co-hosted by Seagate and IEEE International Conference on Big Data: http://bigdataieee.org/BigData2021/BigDataCupChallenges.html
+
 ### Soft sensing problem: 
 
 * Wafer manufacturing is highly complex and takes a long time 
