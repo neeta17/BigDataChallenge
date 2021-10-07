@@ -82,5 +82,14 @@ Participants will need to submit their source code with the prediction values fo
 
 https://arxiv.org/abs/2109.03181
 
+* Leaderboard
+| Email                          | Score 
+| -----------                    | -----------
+|01fe19bcs195@kletech.ac.in      | 0.587
+|01fe19bcs278@kletech.ac.in      | 0.585
+|chandanahegde16@gmail.com       | 0.570
+|ali.abdin@enas.fraunhofer.de    | 0.505
+
+
  
  
