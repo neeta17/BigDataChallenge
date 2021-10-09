@@ -88,7 +88,8 @@ https://arxiv.org/abs/2109.03181
 | ------                         | ------ |
 |01fe19bcs278@kletech.ac.in      | 0.597  |
 |01fe19bcs195@kletech.ac.in      | 0.587  |
-|chandanahegde16@gmail.com       | 0.570  |
+|01fe19bcs222@kletech.ac.in      | 0.577  |
+|chandanahegde16@gmail.com       | 0.573  |
 |ali.abdin@enas.fraunhofer.de    | 0.505  |
 
 
