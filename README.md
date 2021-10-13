@@ -86,12 +86,12 @@ https://arxiv.org/abs/2109.03181
 
 | Email                          | Score  |
 | ------                         | ------ |
-|01fe19bcs195@kletech.ac.in      | 0.697  |
-|ali.abdin@enas.fraunhofer.de    | 0.692  |
+|01fe19bcs195@kletech.ac.in      | 0.710  |
+|ali.abdin@enas.fraunhofer.de    | 0.706  |
 |01fe19bcs278@kletech.ac.in      | 0.690  |
+|01fe19bcs215@kletech.ac.in      | 0.631  |
 |01fe19bcs222@kletech.ac.in      | 0.577  |
 |chandanahegde16@gmail.com       | 0.573  |
-|01fe19bcs215@kletech.ac.in      | 0.573  |
 
 
  
