@@ -23,7 +23,7 @@ Sthitie Bom, Seagate Technology, sthitie.e.bom@seagate.com
 
 * Sthitie Bom heads the global analytics, reporting and controls organizations for the 	Seagate Wafer factories. 
 
-Chao Zhang, Seagate Technology, chao.1.zhang@seagate.com  
+Chao Zhang, Seagate Technology, chaozhang@uchicago.edu  
 
 * Chao Zhang is currently a researcher working on the soft sensing problem in Sthitie’s team with various deep learning models. He is currently pursuing a PhD in 		Molecular Engineering at the University of Chicago. 
 
